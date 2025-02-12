@@ -2,7 +2,7 @@
 ## Project: Patient Waiting List Management
 ### Overview
 This Power BI project focuses on the management and visualization of patient waiting lists within a healthcare facility. It aims to provide an efficient way to track patient appointment wait times, waiting list volume, and identify bottlenecks in service delivery.
-Dataset Description
+### Dataset Description
 The dataset used for this project consists of Inpatient details and Outpatient details stored in two different datasets. Below are the key fields captured in the ### ### Dataset:
 #### •	Case_Type: The category of the medical case (e.g., Day Case, Inpatient or Outpatient).
 #### •	Adult_Child: Indicates whether the patient is an adult or a child.
